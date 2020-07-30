@@ -3,12 +3,13 @@ require 'pry'
 
 def start_game(player1, player2)
   "Hello #{player1} & #{playar2}"
+  player1
   
 end
 
 def play_game(player1, player2)
   play_message = "#{player1} is better than #{player2}"
-  player1
+  play_message
 end
 
 def runner
