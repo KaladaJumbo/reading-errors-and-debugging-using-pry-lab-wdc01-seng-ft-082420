@@ -3,6 +3,8 @@ require 'pry'
 
 def start_game(player1, player2)
   "Hello #{player1} & #{playar2}"
+  binding.pry
+  puts "hello"
 end
 
 def play_game(player1, player2)
@@ -12,6 +14,5 @@ end
 def runner
   start_game("Rocky", "Bullwinkle")
   play_game("Jay-Z", "Beyonce")
-  binding.pry
-  puts "hello"
+  
 end
