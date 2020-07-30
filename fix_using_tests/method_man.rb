@@ -9,6 +9,6 @@ def play_game(player1, player2)
 end
 
 def runner
-  start_game(rocky, bullwinkle)
+  start_game("Rocky", "bullwinkle")
   play_game("Jay-Z", "Beyonce")
-
+end
