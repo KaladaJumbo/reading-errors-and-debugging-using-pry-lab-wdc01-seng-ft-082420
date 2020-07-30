@@ -8,7 +8,7 @@ end
 
 def play_game(player1, player2)
   play_message = "#{player1} is better than #{player2}"
-  play_message
+  player1
 end
 
 def runner
