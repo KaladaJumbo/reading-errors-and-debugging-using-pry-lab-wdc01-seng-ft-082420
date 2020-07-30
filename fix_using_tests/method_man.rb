@@ -10,5 +10,5 @@ end
 
 def runner
   start_game(rocky, bullwinkle)
-  play_game(jay)
+  play_game("Jay-Z", "Beyonce")
 
