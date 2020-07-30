@@ -13,5 +13,5 @@ def runner
   start_game("Rocky", "Bullwinkle")
   play_game("Jay-Z", "Beyonce")
   binding.pry
-  me = 1+1
+  puts "hello"
 end
