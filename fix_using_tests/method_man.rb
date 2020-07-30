@@ -8,7 +8,7 @@ def play_game(player1, player2)
   "#{player1} is better than #{player2}"
 end
 
-#def runner
-#  start_game("Rocky", "bullwinkle")
-#  play_game("Jay-Z", "Beyonce")
-#end
+def runner
+  start_game("Rocky", "bullwinkle")
+  play_game("Jay-Z", "Beyonce")
+end
